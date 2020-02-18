@@ -89,6 +89,6 @@ or
 
 <http://www.google.com/>
 
-<123@email.com>
+<163@email.com>
 
 该方式适合行内较短的链接，会使用 URL 作为链接文字。邮箱地址会自动编码，以逃避抓取机器人。
