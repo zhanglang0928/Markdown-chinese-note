@@ -11,7 +11,7 @@ Markdown入门学习笔记（中文）
 5. [代码](basic_syntax\code.md)
 6. [分隔线](basic_syntax\horizontal_rule.md)
 7. [超链接](basic_syntax\links.md)
-8. [图像](.\basic_syntax\images.md)
+8. [图像](basic_syntax\images.md)
 9. [强调](basic_syntax\emphasis.md)
 10. [字符转义](basic_syntax\backslash_character_escapes.md)
 
