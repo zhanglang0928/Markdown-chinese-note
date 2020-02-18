@@ -8,7 +8,6 @@
 1. [删除线](strikethrougn.md)
 2. [代码块和语法高亮](code_blocks_and_highlighting.md)
 3. [表格](table.md)
-4. [Task List](task_list.md)
 
 CommonMark
 ----------
