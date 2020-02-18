@@ -4,8 +4,8 @@ Markdown入门学习笔记（中文）
 基本语法
 -------
 
-1. [段落与换行](basic_syntax\paragraphs_and_line_breaks.md)
-2. [标题](basic_syntax\headers.md)
+1. [段落与换行](basic_syntax/paragraphs_and_line_breaks.md)
+2. [标题](basic_syntax/headers.md)
 3. [引用](basic_syntax\blockquotes.md)
 4. [列表](basic_syntax\lists.md)
 5. [代码](basic_syntax\code.md)
