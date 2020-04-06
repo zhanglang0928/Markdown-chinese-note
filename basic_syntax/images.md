@@ -27,13 +27,33 @@
 
 [github]: https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding"
 
-指定图片的显示大小
-----------------
+指定图片的显示大小和位置
+----------------------
 
 Markdown 不支持指定图片的显示大小，不过可以通过直接插入`<img />`标签来指定相关属性：
+
+    alt：链接的显示名即![]括号内的名称
+    title：照片文件名
+    width：宽度
+    height：高度
 
 ```html
 <img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
 ```
 
 <img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+
+可以用`<div>`和`align`来控制图片位置：
+
+    center：居中对齐
+    left：靠左对齐（可不用设置，默认此对齐方式）
+    right：靠右对齐
+
+```html
+<div align="center">
+<img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+</div>
+```
+<div align="center">
+<img src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+</div>

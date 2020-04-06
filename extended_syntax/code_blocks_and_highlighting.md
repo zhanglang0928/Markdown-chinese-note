@@ -6,7 +6,7 @@
 
 与原来使用缩进来添加代码块的语法不同，这里使用 \`\`\` \`\`\` 来包含多行代码：
 
-![code](images/code.png 'Code Blocks')
+![code](images/code.png )
 
 ```
 <p>code here</p>
